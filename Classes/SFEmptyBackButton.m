@@ -8,7 +8,7 @@
 
 #import "SFEmptyBackButton.h"
 
-@import <Aspects/Aspects.h>;
+#import <Aspects/Aspects.h>
 
 @implementation SFEmptyBackButton
 
